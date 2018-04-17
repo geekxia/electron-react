@@ -1,0 +1,45 @@
+.login-page {
+	width: 100%;
+	height: 100%;
+	padding-top: 15%;
+}
+
+.login-page .login-box {
+	background-color: #fefefe;
+	box-shadow: 0 0 100px rgba(0,0,0,.08);
+	opacity: 0.8;
+	width: 270px;
+	padding: 30px 20px;
+	margin: 0 auto;
+}
+
+.login-page .login-logo{
+	/*padding-bottom: 20px;*/
+	max-width: 80px;
+}
+
+.login-page .ant-input-affix-wrapper {
+	margin: 10px 0;
+}
+
+.login-page .login-input {
+	height: 40px;
+}
+
+.login-page .security-wrapper{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: left;
+	display: inline-block;
+	width: 100%;
+}
+
+.login-page .security-code {
+	width: 150px;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.login-page .security-img{
+	vertical-align: middle;
+}
